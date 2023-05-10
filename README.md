@@ -1,5 +1,5 @@
 # HindVal
-Text Generation Evaluation Metric, Course Project for CS779: Statistical Natural Language Processing
+New Text Generation Evaluation Metric - HindVal
 
 This GitHub repo includes the codes and datafiles used for the project.
 The NN.ipynb has different models tried, and how to handle different data sets.
